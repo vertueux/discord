@@ -1,19 +1,4 @@
-```cpp
-#include <vertueux.h>
+## What is this repository?
 
-namespace github {
-
-int main() {
-  User* vertueux = new OpenSourceUser();
-
-  vertueux.discord_username = {"now#9470", "imnow"}; 
-  vertueux.website = "https://vertueux.github.io";
-  vertueux.passions = {"Mathematics", "Physics", "Robotics"};
-  vertueux.featured_project = "Quadruped dog robot";
-  vertueux.fp_visibility = "Private"; // At the moment.
-
-  return 0;
-}
-
-} // namespace github
-```
+This is just where I put a few of the work I have done in science & philosophy. So much of the files around here are LaTeX files.
+This repository isn't intended to be forked and is not looking for pull requests & external changes besides mines. Also, everything (or most) is in french.
