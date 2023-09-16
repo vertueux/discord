@@ -1,244 +1,244 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T15:03:44.654Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.0.0" etag="957n37vS-fSS-ZZJxuZc" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-16T09:30:07.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.0.0" etag="4HBARTLeDL444Wwgu0rl" version="21.7.5" type="github">
   <diagram name="Page-1" id="A8fb3w1H7AYXVCVUZf14">
-    <mxGraphModel dx="3849" dy="1347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4925" dy="2082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Eos9Qmah9Xb6crbv86PU-7" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uBb9eE13xI9o5E1Ve7ly-33" target="uBb9eE13xI9o5E1Ve7ly-7">
+        <mxCell id="Eos9Qmah9Xb6crbv86PU-7" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uBb9eE13xI9o5E1Ve7ly-33" target="uBb9eE13xI9o5E1Ve7ly-7" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-130" y="1060" as="sourcePoint" />
-            <mxPoint x="-103" y="1090" as="targetPoint" />
+            <mxPoint x="-280" y="1230" as="sourcePoint" />
+            <mxPoint x="-253" y="1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-19" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uBb9eE13xI9o5E1Ve7ly-9" target="uBb9eE13xI9o5E1Ve7ly-12" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-50" y="600" as="sourcePoint" />
-            <mxPoint x="110" y="600" as="targetPoint" />
+            <mxPoint x="-200" y="770" as="sourcePoint" />
+            <mxPoint x="-40" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-38" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uBb9eE13xI9o5E1Ve7ly-36" target="uBb9eE13xI9o5E1Ve7ly-12" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-490" y="720" as="sourcePoint" />
-            <mxPoint x="-490" y="947" as="targetPoint" />
+            <mxPoint x="-640" y="890" as="sourcePoint" />
+            <mxPoint x="-640" y="1117" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-1" value="&lt;b&gt;Aspirateur à main de Carrefour&amp;nbsp;&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=160;height=76;" parent="1" vertex="1">
-          <mxGeometry x="-870" y="100" width="2020" height="1080" as="geometry" />
+          <mxGeometry x="-1020" y="270" width="2020" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-2" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Système&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;hr&gt;&lt;div&gt;&amp;nbsp;Aspirateur à miettes Carrefour - HRV600012 (HC-1003C-12).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Id = &quot;1&quot;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="135" y="120" width="240" height="100" as="geometry" />
+          <mxGeometry x="-15" y="290" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-5" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&quot;requirement&quot;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Aspirer en intégralité (partout)&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Id = &quot;1.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Text = &quot;L&#39;aspirateur doit être capable de pouvoir passer dans tous les recoins, avec une grande efficacité.&quot;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-500" y="310" width="190" height="160" as="geometry" />
+          <mxGeometry x="-650" y="480" width="190" height="160" as="geometry" />
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-6" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&quot;requirement&quot;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Être maniable&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Id = &quot;1.1.3&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Text = &quot;L&#39;aspirateur doit être capable d&#39;être utilisé n&#39;importe où.&quot;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-260" y="560" width="230" height="155" as="geometry" />
+          <mxGeometry x="-410" y="730" width="230" height="155" as="geometry" />
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&quot;block&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Batterie&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;Temps d&#39;utilisation sur batterie de 12 minutes.&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-420" y="1060" width="140" height="90" as="geometry" />
+          <mxGeometry x="-570" y="1230" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-8" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&quot;requirement&quot;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Être léger&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Id = &quot;1.1.3.2&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Text = &quot;L&#39;aspirateur doit avoir un poids total inférieur à 2kg.&quot;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-252.5" y="920" width="220" height="110" as="geometry" />
+          <mxGeometry x="-402.5" y="1090" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-9" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&quot;requirement&quot;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Être polyvalent&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Id = &quot;1.1.2&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Text = &quot;L&#39;aspirateur doit être capable d&#39;aspirer presque toute matière minime solide décomposée. Cela doit être de la poussière, des miettes, des poils d&#39;animaux, de la nourriture, etc...&quot;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-530" y="560" width="230" height="155" as="geometry" />
+          <mxGeometry x="-680" y="730" width="230" height="155" as="geometry" />
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-10" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&quot;requirement&quot;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Se déplacer n&#39;importe où&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Id = &quot;1.1.3.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Text = &quot;L&#39;aspirateur doit être capable d&#39;être emmené et utilisé n&#39;importe où. Il doit donc être équipé d&#39;une batterie.&quot;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-492.5" y="920" width="230" height="110" as="geometry" />
+          <mxGeometry x="-642.5" y="1090" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-11" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&quot;requirement&quot;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Être équipé d&#39;une poignée&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Id = &quot;1.1.3.3&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Text = &quot;L&#39;aspirateur doit être équipé d&#39;une poignée de 14cm pour pouvoir être tenu et amené n&#39;importe où.&quot;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-17.5" y="920" width="220" height="110" as="geometry" />
+          <mxGeometry x="-167.5" y="1090" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-12" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&quot;block&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Moteur&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;Capacité de 45W.&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-580" y="1060" width="140" height="90" as="geometry" />
+          <mxGeometry x="-730" y="1230" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-13" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uBb9eE13xI9o5E1Ve7ly-6" target="uBb9eE13xI9o5E1Ve7ly-10" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="290" y="680" as="sourcePoint" />
-            <mxPoint x="-275" y="770" as="targetPoint" />
+            <mxPoint x="140" y="850" as="sourcePoint" />
+            <mxPoint x="-425" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-14" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uBb9eE13xI9o5E1Ve7ly-6" target="uBb9eE13xI9o5E1Ve7ly-8" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="290" y="680" as="sourcePoint" />
-            <mxPoint x="-40" y="770" as="targetPoint" />
+            <mxPoint x="140" y="850" as="sourcePoint" />
+            <mxPoint x="-190" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-15" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uBb9eE13xI9o5E1Ve7ly-6" target="uBb9eE13xI9o5E1Ve7ly-11" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="290" y="680" as="sourcePoint" />
-            <mxPoint x="85" y="770" as="targetPoint" />
+            <mxPoint x="140" y="850" as="sourcePoint" />
+            <mxPoint x="-65" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-16" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uBb9eE13xI9o5E1Ve7ly-5" target="uBb9eE13xI9o5E1Ve7ly-9" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-165" y="420" as="sourcePoint" />
-            <mxPoint x="-240" y="520" as="targetPoint" />
+            <mxPoint x="-315" y="590" as="sourcePoint" />
+            <mxPoint x="-390" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-17" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uBb9eE13xI9o5E1Ve7ly-5" target="uBb9eE13xI9o5E1Ve7ly-6" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="30" y="530" as="sourcePoint" />
-            <mxPoint x="-85" y="560" as="targetPoint" />
+            <mxPoint x="-120" y="700" as="sourcePoint" />
+            <mxPoint x="-235" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-18" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="uBb9eE13xI9o5E1Ve7ly-5" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="250" y="220" as="sourcePoint" />
-            <mxPoint x="120" y="360" as="targetPoint" />
+            <mxPoint x="100" y="390" as="sourcePoint" />
+            <mxPoint x="-30" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-20" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uBb9eE13xI9o5E1Ve7ly-10" target="uBb9eE13xI9o5E1Ve7ly-7" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-165" y="703" as="sourcePoint" />
-            <mxPoint x="-165" y="910" as="targetPoint" />
+            <mxPoint x="-315" y="873" as="sourcePoint" />
+            <mxPoint x="-315" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-21" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&quot;requirement&quot;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Recharger la batterie&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Id = &quot;1.2&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Text = &quot;L&#39;aspirateur doit être en mesure de fournir une interface permettant le rechargement de la batterie.&quot;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="310" width="180" height="160" as="geometry" />
+          <mxGeometry x="-310" y="480" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-22" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uBb9eE13xI9o5E1Ve7ly-2" target="uBb9eE13xI9o5E1Ve7ly-21" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="170" y="350" as="sourcePoint" />
-            <mxPoint x="50" y="400" as="targetPoint" />
+            <mxPoint x="20" y="520" as="sourcePoint" />
+            <mxPoint x="-100" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-23" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&quot;requirement&quot;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Vider le réservoir&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Id = &quot;1.3&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Text = &quot;L&#39;utilisateur doit être capable d&#39;enlever et vider le réservoir facilement et efficacement.&quot;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="165" y="310" width="180" height="160" as="geometry" />
+          <mxGeometry x="15" y="480" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-24" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&quot;requirement&quot;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Changer de filtre&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Id = &quot;1.4&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Text = &quot;L&#39;aspirateur doit être équipé d&#39;un système à bouton poussoir permettant d&#39;enlever et d&#39;insérer facilement son réservoir, contenant le filtre et les déchets.&quot;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="510" y="310" width="190" height="160" as="geometry" />
+          <mxGeometry x="360" y="480" width="190" height="160" as="geometry" />
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-25" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&quot;requirement&quot;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Remplacer les composants&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Id = &quot;1.5&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Text = &quot;Un réparateur, assistant ou même éventuel utilisateur doit être en mesure de démonter et remplacer un composant interne de l&#39;aspirateur.&quot;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="830" y="310" width="190" height="160" as="geometry" />
+          <mxGeometry x="680" y="480" width="190" height="160" as="geometry" />
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-26" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="uBb9eE13xI9o5E1Ve7ly-23" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="250" y="220" as="sourcePoint" />
-            <mxPoint x="450" y="310" as="targetPoint" />
+            <mxPoint x="100" y="390" as="sourcePoint" />
+            <mxPoint x="300" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-27" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="uBb9eE13xI9o5E1Ve7ly-24" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="250" y="220" as="sourcePoint" />
-            <mxPoint x="607.5" y="330" as="targetPoint" />
+            <mxPoint x="100" y="390" as="sourcePoint" />
+            <mxPoint x="457.5" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-28" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uBb9eE13xI9o5E1Ve7ly-2" target="uBb9eE13xI9o5E1Ve7ly-25" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="185" y="350" as="sourcePoint" />
-            <mxPoint x="820" y="270" as="targetPoint" />
+            <mxPoint x="35" y="520" as="sourcePoint" />
+            <mxPoint x="670" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-29" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&quot;block&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Filtre&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;Doit être capable de filtrer 99,9% des particulesde 0.1cm à 1cm..&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="570" y="1057.5" width="140" height="95" as="geometry" />
+          <mxGeometry x="420" y="1227.5" width="140" height="95" as="geometry" />
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-30" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uBb9eE13xI9o5E1Ve7ly-24" target="uBb9eE13xI9o5E1Ve7ly-29" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="560" y="725" as="sourcePoint" />
-            <mxPoint x="590" y="845" as="targetPoint" />
+            <mxPoint x="410" y="895" as="sourcePoint" />
+            <mxPoint x="440" y="1015" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-31" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&quot;requirement&quot;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Équipé d&#39;aération&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Id = &quot;1.1.2.2&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Text = &quot;L&#39;aspirateur doit avoir 10 trous d&#39;aérations de 1,2x1cm afin d&#39;éviter que le moteur surchauffe.&quot;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-570" y="760" width="240" height="110" as="geometry" />
+          <mxGeometry x="-720" y="930" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-32" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uBb9eE13xI9o5E1Ve7ly-9" target="uBb9eE13xI9o5E1Ve7ly-31" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-530" y="550" as="sourcePoint" />
-            <mxPoint x="-560" y="770" as="targetPoint" />
+            <mxPoint x="-680" y="720" as="sourcePoint" />
+            <mxPoint x="-710" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-33" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&quot;requirement&quot;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Entrée pour recharger la batterie&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Id = &quot;1.2.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Text = &quot;L&#39;aspirateur doit être équipé d&#39;une entrée femelle de 6V circulaire de 0,5 de diamètre à l&#39;arrière de l&#39;aspirateur, afin de pouvoir être rechargée.&quot;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-5" y="560" width="190" height="155" as="geometry" />
+          <mxGeometry x="-155" y="730" width="190" height="155" as="geometry" />
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-34" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uBb9eE13xI9o5E1Ve7ly-21" target="uBb9eE13xI9o5E1Ve7ly-33" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="365" y="620" as="sourcePoint" />
-            <mxPoint x="190" y="700" as="targetPoint" />
+            <mxPoint x="215" y="790" as="sourcePoint" />
+            <mxPoint x="40" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-35" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&quot;requirement&quot;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Bouton pour donner accès au réservoir amovible&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Id = &quot;1.3.1&quot;, &quot;1.4.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Text = &quot;L&#39;aspirateur doit être équipé d&#39;un bouton poussoir sous forme d&#39;ellipse suivant la paume du pouce de rayon 3x2cm permettant de détacher le résevoir amovible ainsi que le filtre.&quot;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="270" y="560" width="220" height="160" as="geometry" />
+          <mxGeometry x="120" y="730" width="220" height="160" as="geometry" />
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-36" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&quot;requirement&quot;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Bouton pour lancer l&#39;aspiration&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Id = &quot;1.1.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Text = &quot;L&#39;aspirateur doit être équipé d&#39;un bouton poussoir sous forme d&#39;ellipse de la même forme que le pouce, de dimension 4x2cm, permettant d&#39;allumer le moteur et commencer à aspirer des débris.&quot;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-780" y="560" width="230" height="155" as="geometry" />
+          <mxGeometry x="-930" y="730" width="230" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="uBb9eE13xI9o5E1Ve7ly-37" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="uBb9eE13xI9o5E1Ve7ly-36" edge="1" source="uBb9eE13xI9o5E1Ve7ly-5">
+        <mxCell id="uBb9eE13xI9o5E1Ve7ly-37" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uBb9eE13xI9o5E1Ve7ly-5" target="uBb9eE13xI9o5E1Ve7ly-36" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-410" y="510" as="sourcePoint" />
-            <mxPoint x="-535" y="530" as="targetPoint" />
+            <mxPoint x="-560" y="680" as="sourcePoint" />
+            <mxPoint x="-685" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-39" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&quot;block&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Réservoir amovible&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;Doit avoir une contenance de 0,3L.&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;gradientColor=none;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="185" y="1060" width="140" height="90" as="geometry" />
+          <mxGeometry x="35" y="1230" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-40" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uBb9eE13xI9o5E1Ve7ly-23" target="uBb9eE13xI9o5E1Ve7ly-39" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="270" y="575" as="sourcePoint" />
-            <mxPoint x="270" y="990" as="targetPoint" />
+            <mxPoint x="120" y="745" as="sourcePoint" />
+            <mxPoint x="120" y="1160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-41" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uBb9eE13xI9o5E1Ve7ly-23" target="uBb9eE13xI9o5E1Ve7ly-35" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="350" y="812" as="sourcePoint" />
-            <mxPoint x="450" y="857" as="targetPoint" />
+            <mxPoint x="200" y="982" as="sourcePoint" />
+            <mxPoint x="300" y="1027" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-43" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uBb9eE13xI9o5E1Ve7ly-24" target="uBb9eE13xI9o5E1Ve7ly-35" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="490" y="580" as="sourcePoint" />
-            <mxPoint x="615" y="625" as="targetPoint" />
+            <mxPoint x="340" y="750" as="sourcePoint" />
+            <mxPoint x="465" y="795" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-44" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&quot;requirement&quot;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Forme du flux d&#39;air&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Id = &quot;1.1.2.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Text = &quot;L&#39;aspirateur doit avoir une forme de flux d&#39;air permettant de se placer sur des surfaces murales, et non planes.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Avoir un flux d&#39;air sous forme de rectangle de dimension 4x1cm.&quot;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-850" y="760" width="250" height="140" as="geometry" />
+          <mxGeometry x="-1000" y="930" width="250" height="140" as="geometry" />
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-45" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.464;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="uBb9eE13xI9o5E1Ve7ly-9" target="uBb9eE13xI9o5E1Ve7ly-44" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-405" y="740" as="sourcePoint" />
-            <mxPoint x="-440" y="770" as="targetPoint" />
+            <mxPoint x="-555" y="910" as="sourcePoint" />
+            <mxPoint x="-590" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-46" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&quot;requirement&quot;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Pochette externe retirable&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Id = &quot;1.4.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Text = &quot;Le filtre doit être inséré dans une forme plastique de dimension 20x15cm externe au réservoir amovible permettant d&#39;être retiré indépendamment.&quot;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="510" y="560" width="190" height="160" as="geometry" />
+          <mxGeometry x="360" y="730" width="190" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="uBb9eE13xI9o5E1Ve7ly-48" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="uBb9eE13xI9o5E1Ve7ly-46" edge="1" source="uBb9eE13xI9o5E1Ve7ly-24">
+        <mxCell id="uBb9eE13xI9o5E1Ve7ly-48" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uBb9eE13xI9o5E1Ve7ly-24" target="uBb9eE13xI9o5E1Ve7ly-46" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="630" y="530" as="sourcePoint" />
-            <mxPoint x="385" y="585" as="targetPoint" />
+            <mxPoint x="480" y="700" as="sourcePoint" />
+            <mxPoint x="235" y="755" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uBb9eE13xI9o5E1Ve7ly-49" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&quot;requirement&quot;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Structure externe composée de vis&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Id = &quot;1.5.2&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Text = &quot;La protection des composants internes de l&#39;aspirateur doit être composé de vis afin de pouvoir être démonté facilement.&quot;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="940" y="560" width="190" height="155" as="geometry" />
+          <mxGeometry x="790" y="730" width="190" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="Eos9Qmah9Xb6crbv86PU-1" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&quot;requirement&quot;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Structure interne composée de vis&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Id = &quot;1.5.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Text = &quot;Des composants internes tels que le moteur doit être insérés à travers des vis afin de pouvoir être remplacé facilement.&quot;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="720" y="560" width="190" height="155" as="geometry" />
+        <mxCell id="Eos9Qmah9Xb6crbv86PU-1" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&quot;requirement&quot;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Structure interne composée de vis&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Id = &quot;1.5.1&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Text = &quot;Des composants internes tels que le moteur doit être insérés à travers des vis afin de pouvoir être remplacé facilement.&quot;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="570" y="730" width="190" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="Eos9Qmah9Xb6crbv86PU-2" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uBb9eE13xI9o5E1Ve7ly-25" target="uBb9eE13xI9o5E1Ve7ly-49">
+        <mxCell id="Eos9Qmah9Xb6crbv86PU-2" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uBb9eE13xI9o5E1Ve7ly-25" target="uBb9eE13xI9o5E1Ve7ly-49" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="940" y="500" as="sourcePoint" />
-            <mxPoint x="910" y="590" as="targetPoint" />
+            <mxPoint x="790" y="670" as="sourcePoint" />
+            <mxPoint x="760" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Eos9Qmah9Xb6crbv86PU-3" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uBb9eE13xI9o5E1Ve7ly-25" target="Eos9Qmah9Xb6crbv86PU-1">
+        <mxCell id="Eos9Qmah9Xb6crbv86PU-3" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uBb9eE13xI9o5E1Ve7ly-25" target="Eos9Qmah9Xb6crbv86PU-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="850" y="510" as="sourcePoint" />
-            <mxPoint x="970" y="600" as="targetPoint" />
+            <mxPoint x="700" y="680" as="sourcePoint" />
+            <mxPoint x="820" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Eos9Qmah9Xb6crbv86PU-4" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&quot;requirement&quot;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Flux d&#39;air remplaçable&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Id = &quot;1.5.3&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Text = &quot;La partie avant ainsi que le flux d&#39;air doit être vissé afin de pouvoir être démonté et remplacé.&quot;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="830" y="760" width="190" height="155" as="geometry" />
+        <mxCell id="Eos9Qmah9Xb6crbv86PU-4" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&quot;requirement&quot;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Flux d&#39;air remplaçable&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Id = &quot;1.5.3&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Text = &quot;La partie avant ainsi que le flux d&#39;air doit être vissé afin de pouvoir être démonté et remplacé.&quot;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="680" y="930" width="190" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="Eos9Qmah9Xb6crbv86PU-5" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uBb9eE13xI9o5E1Ve7ly-25" target="Eos9Qmah9Xb6crbv86PU-4">
+        <mxCell id="Eos9Qmah9Xb6crbv86PU-5" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uBb9eE13xI9o5E1Ve7ly-25" target="Eos9Qmah9Xb6crbv86PU-4" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1030" y="780" as="sourcePoint" />
-            <mxPoint x="1150" y="870" as="targetPoint" />
+            <mxPoint x="880" y="950" as="sourcePoint" />
+            <mxPoint x="1000" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Eos9Qmah9Xb6crbv86PU-6" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Eos9Qmah9Xb6crbv86PU-4" target="uBb9eE13xI9o5E1Ve7ly-39">
+        <mxCell id="Eos9Qmah9Xb6crbv86PU-6" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Eos9Qmah9Xb6crbv86PU-4" target="uBb9eE13xI9o5E1Ve7ly-39" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="480" y="660" as="sourcePoint" />
-            <mxPoint x="480" y="1250" as="targetPoint" />
+            <mxPoint x="330" y="830" as="sourcePoint" />
+            <mxPoint x="330" y="1420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
