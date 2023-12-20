@@ -1,0 +1,54 @@
+{
+	"recommendations": [
+		// Language.
+		"MS-CEINTL.vscode-language-pack-fr",
+		
+		// GitHub.
+		"github.vscode-github-actions",
+		"GitHub.codespaces",
+		"GitHub.vscode-pull-request-github",
+		"GitHub.github-vscode-theme",
+		"bierner.markdown-preview-github-styles",
+
+		// Icons.
+		"be5invis.vscode-icontheme-nomo-dark",
+
+		// Utilities.
+		"DavidAnson.vscode-markdownlint",
+		"EditorConfig.EditorConfig",
+		"phplasma.csv-to-table",
+		"janisdd.vscode-edit-csv",
+		"ms-azuretools.vscode-docker",
+		"esbenp.prettier-vscode",
+		"VisualStudioExptTeam.vscodeintellicode",
+		"ms-vscode-remote.remote-containers",
+		"ms-vscode.PowerShell",
+		"streetsidesoftware.code-spell-checker",
+
+		// C++.
+		"ms-vscode.cpptools-extension-pack",
+		"ms-vscode.cpptools-themes",
+		"twxs.cmake",
+		"ms-vscode.cmake-tools",
+		"jeff-hykin.better-cpp-syntax",
+
+		// Python.
+		"ms-python.python",
+		"donjayamanne.python-extension-pack",
+
+		// C#.
+		"ms-dotnettools.csharp",
+		"ms-dotnettools.csdevkit",
+		"ms-dotnettools.vscodeintellicode-csharp",
+
+		// Robotics.
+		"ms-iot.vscode-ros",
+		"ms-vscode-remote.remote-wsl",
+		"ms-vscode-remote.remote-ssh",
+
+		// Mathematics.
+		"James-Yu.latex-workshop",
+		"leanprover.lean4",
+
+	]
+}
