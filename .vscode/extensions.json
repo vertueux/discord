@@ -11,7 +11,7 @@
 		"bierner.markdown-preview-github-styles",
 
 		// Icons.
-		"be5invis.vscode-icontheme-nomo-dark",
+		"jtlowe.vscode-icon-theme",
 
 		// Utilities.
 		"DavidAnson.vscode-markdownlint",
