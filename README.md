@@ -1,0 +1,1 @@
+This is the link page redirecting the user to my Discord server.
